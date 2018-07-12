@@ -1,0 +1,21 @@
+.navbar-brand {
+    font-family: 'Gaegu', cursive;
+    font-size:3em;
+}
+
+.js {
+    font-family: 'Gaegu', cursive;
+    font-size: 1.4em;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.special-section h1, .special-section h2 {
+    color: #363636 !important;
+}
+
+.steps .columns {
+    margin-bottom: 100px;
+}
