@@ -14,8 +14,25 @@ body {
 
 .special-section h1, .special-section h2 {
     color: #363636 !important;
+    text-align: center;
+}
+
+
+.lead-in h1, .lead-in h2 {
+
+    text-align: center;
 }
 
 .steps .columns {
     margin-bottom: 100px;
+}
+
+
+.highlight {
+    font-size: 1.5em;
+}
+
+.highlight1 {
+    font-size: 1.8em;
+    font-weight: 800;
 }
